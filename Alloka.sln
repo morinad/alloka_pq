@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "Alloka", "Alloka\Alloka.mproj", "{CFC90702-524F-4A99-BFC0-D55D24EE397F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC90702-524F-4A99-BFC0-D55D24EE397F}.Debug|x86.ActiveCfg = Debug|x86
+		{CFC90702-524F-4A99-BFC0-D55D24EE397F}.Debug|x86.Build.0 = Debug|x86
+		{CFC90702-524F-4A99-BFC0-D55D24EE397F}.Release|x86.ActiveCfg = Release|x86
+		{CFC90702-524F-4A99-BFC0-D55D24EE397F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAE8F1F5-1A62-449C-BA73-A58CEAD20C20}
+	EndGlobalSection
+EndGlobal
