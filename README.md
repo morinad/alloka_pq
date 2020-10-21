@@ -1,6 +1,9 @@
 # Кастомный коннектор к коллтрекингу Alloka для Power BI
 
-Курс по обработке данных в Power Query: https://directprorf.ru/pq?utm_source=github
+### Наши курсы по обработке данных:
+Курс по коннекторам в Excel (4 часа): https://directprorf.ru/excel?utm_source=github
+Большой курс по обработке данных в Power Query (8 часов): https://directprorf.ru/pq?utm_source=github
+
 
 ### Как воспользоваться коннектором:
 
