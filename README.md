@@ -1,5 +1,6 @@
 # Кастомный коннектор к коллтрекингу Alloka для Power BI
 
+Курс по обработке данных в Power Query: https://directprorf.ru/pq?utm_source=github
 
 ### Как воспользоваться коннектором:
 
@@ -12,5 +13,4 @@
 ### Полезные ссылки:
 Подробное видео по использованию коннектора: https://youtu.be/9t1R0EDf970
 
-### Дополнительные материалы:
-Курс по обработке данных в Power Query: https://directprorf.ru/pq?utm_source=github
+
